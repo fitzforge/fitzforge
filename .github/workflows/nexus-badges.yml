@@ -8,7 +8,7 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: FitzDegenhub/nexus-mod-badges@master
+      - uses: fitzforge/nexus-mod-badges@master
         with:
           nexus_api_key: ${{ secrets.NEXUS_API_KEY }}
           game: crimsondesert
@@ -17,7 +17,7 @@ jobs:
           gist_token: ${{ secrets.GIST_TOKEN }}
 
       # Demo badges for README logo options preview
-      - uses: FitzDegenhub/nexus-mod-badges@master
+      - uses: fitzforge/nexus-mod-badges@master
         with:
           nexus_api_key: ${{ secrets.NEXUS_API_KEY }}
           game: crimsondesert
@@ -27,7 +27,7 @@ jobs:
           logo: icon
           filename: demo-icon.json
 
-      - uses: FitzDegenhub/nexus-mod-badges@master
+      - uses: fitzforge/nexus-mod-badges@master
         with:
           nexus_api_key: ${{ secrets.NEXUS_API_KEY }}
           game: crimsondesert
@@ -37,7 +37,7 @@ jobs:
           logo: text
           filename: demo-text.json
 
-      - uses: FitzDegenhub/nexus-mod-badges@master
+      - uses: fitzforge/nexus-mod-badges@master
         with:
           nexus_api_key: ${{ secrets.NEXUS_API_KEY }}
           game: crimsondesert
