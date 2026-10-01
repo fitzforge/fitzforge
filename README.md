@@ -3,7 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&width=500&lines=g'day+%F0%9F%91%8B;Australian+dev+based+in+Sweden;Building+things+that+didn't+exist+yet)
 
 Australian agentic coder based in Sweden. Telecoms infra background, now deep in software and AI.
-Studying a Bachelor of CS & AI. 
+
 
 </div>
 
