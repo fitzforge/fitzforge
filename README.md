@@ -14,7 +14,6 @@ Australian agentic coder based in Sweden. Telecoms infra background, now deep in
 - **Agentic AI** | building with LLMs, autonomous workflows, tool-use systems
 - **Web3** | former content creator (30k), now just building
 - **Gaming** | lifelong gamer, got into modding to give back
-- **Cybersecurity** | offensive and defensive, planning to specialise through my CS degree
 - **Homelab** | self-hosting everything
 
 ---
